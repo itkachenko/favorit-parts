@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SearchForm from './components/Search';
 import Goods from './components/Goods';
